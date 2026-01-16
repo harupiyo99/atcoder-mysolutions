@@ -1,3 +1,5 @@
+//コンテスト中では、memoをvectorではなくmapで初期化してしまい、計算量が大きくなったため、時間内に処理することができませんでした。mapの計算量がlogMになることを知っておくべきでした。
+
 #include <iostream>   
 #include <vector>    
 #include <string>    
