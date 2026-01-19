@@ -1,4 +1,4 @@
-# atcoder-mysolutions
+# atcoder-practice
 
 AtCoderで解いた問題の自分の解答コードを保存するリポジトリです。
 
