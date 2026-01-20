@@ -19,15 +19,13 @@ int main()
     cin >> N >> K;
     
     vi d(K + 1,0);
-    vvi A(K + 1,vi(1,0));
     vi sunuke(N + 1,0);
     for (int i = 1;i <= K;i++) {
         cin >> d[i];
         for (int j = 1;j <= d[i];j++) {
-            int temp;
-            cin >> temp;
-            A[i].push_back(temp);
-            sunuke[A[i][j]]++;
+            int A;
+            cin >> A;
+            sunuke[A]++;
         }
     }
 
