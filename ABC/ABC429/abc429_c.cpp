@@ -1,3 +1,6 @@
+//初めて自力で解けたC問題。うれしかった。
+//一回long long int型にしておらず、WAになってしまった。C以降は値のオーバーフローのことも考えるべき。
+
 #include <iostream>   
 #include <vector>    
 #include <string>    
