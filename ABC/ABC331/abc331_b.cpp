@@ -1,4 +1,5 @@
 //効率よく探す方法を最初は模索していたが、卵の個数Nが高々100個だったこともあり、すべての個数の組み合わせに対して全探索を用いた。
+//https://atcoder.jp/contests/abc331/tasks/abc331_b
 
 #include <iostream>   
 #include <vector>    
