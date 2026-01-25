@@ -1,3 +1,6 @@
+// https://atcoder.jp/contests/abc442/tasks/abc442_d
+// 累積和のところで、値を変えるのはsumA[x]だけでよかった。しかし、sumA[x + 1]の値も変更してしまったため、特定のクエリで計算が合わなくなってしまった。こうした計算ミスをなくすためにも、より多くの問題量をこなす必要性を感じた。
+
 #include <iostream>   
 #include <vector>    
 #include <string>    
